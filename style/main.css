@@ -327,6 +327,7 @@ h5 {
   color: white;
 
   padding: 50px 20px;
+  margin-bottom: 0;
 }
 .footer__description,
 .footer__contact {
